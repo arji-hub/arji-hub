@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ralf 👋</h1>
+<h1 align="center">Hi, I'm RG 👋</h1>
 
 <p align="center">
   <b>BSIT Student · Full-Stack Developer · Game Dev Enthusiast</b><br>
@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rggatmaitan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:rg.gatmaitan23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/arji-hub"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/rggatmaitan" title="Connect with me on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="www.linkedin.com/in/rggatmaitan"></a>
+  <a href="mailto:rg.gatmaitan23@gmail.com" title="Send me an email"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="rg.gatmaitan23@gmail.com"></a>
 </p>
 
 ---
@@ -65,7 +64,8 @@
 ## 🚀 Featured Projects
 
 ### 🏢 Asset Management System – CICT
-`React` `Vite` `Firebase` `Firestore` `Cloud Functions` · *Ongoing*
+
+`React` `Vite` `Firebase` `Firestore` `Cloud Functions` · _Ongoing_
 
 Role-based web platform that digitizes asset management and auditing for the College of Information and Communications Technology. Built as the **full-stack developer** in a 5-member capstone team.
 
@@ -74,7 +74,8 @@ Role-based web platform that digitizes asset management and auditing for the Col
 - ☁️ Deployed on Firebase Hosting with Firestore, Cloud Functions, and Storage, automating asset registration, room assignment, custodian onboarding emails, and condition reporting
 
 ### 🐸 Frogbound Prince
-`Unity 2D` `C#` · *April 2026*
+
+`Unity 2D` `C#` · _April 2026_
 
 2D game built with a 5-member team, where I worked as **backend scripts developer**.
 
@@ -86,7 +87,7 @@ Role-based web platform that digitizes asset management and auditing for the Col
 
 ## 🎓 Training & Certifications
 
-**Code Craft: Mastering Essential Tools for Modern Software Development** · *December 2025*
+**Code Craft: Mastering Essential Tools for Modern Software Development** · _December 2025_
 SWITS (CICT Student Organization), Bulacan State University
 
 - Built a document-ingestion feature for an AI-powered PDF reviewer that generates exam review content from uploaded files
@@ -95,21 +96,14 @@ SWITS (CICT Student Organization), Bulacan State University
 
 ---
 
-## 💼 Experience
-
-**Work Immersion Trainee – Xaviery Computers** · *February 2023 (80 hours)* · Baliuag, Bulacan
-
-- Assembled and configured new PC builds and ran boot tests before release
-- Diagnosed, tested, and cleaned hardware such as printers and motherboards
-- Logged and organized inventory records for parts and stock
-
----
-
-## 📊 GitHub Stats
+## 📊 Contribution 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arji-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arji-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arji-hub/arji-hub/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arji-hub/arji-hub/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/arji-hub/arji-hub/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
