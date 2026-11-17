@@ -65,23 +65,13 @@
 
 ### 🏢 Asset Management System – CICT
 
-`React` `Vite` `Firebase` `Firestore` `Cloud Functions` · _Ongoing_
-
-Role-based web platform that digitizes asset management and auditing for the College of Information and Communications Technology. Built as the **full-stack developer** in a 5-member capstone team.
-
-- 🔐 Google OAuth and Microsoft Entra ID sign-in with 3 access levels (Admin, Full-time and Part-time custodian)
-- 📱 QR code generation and scanning with **jsQR** for instant asset lookup without login, replacing manual paper-based records
-- ☁️ Deployed on Firebase Hosting with Firestore, Cloud Functions, and Storage, automating asset registration, room assignment, custodian onboarding emails, and condition reporting
+`React` `Vite` `Firebase` `Firestore` `Cloud Functions` · _November 2026_
 
 ### 🐸 Frogbound Prince
 
 `Unity 2D` `C#` · _April 2026_
 
 2D game built with a 5-member team, where I worked as **backend scripts developer**.
-
-- ⚔️ Core gameplay: player/enemy movement, health/damage mechanics, and collision-based combat
-- 🎯 Advanced combat: homing projectiles, directional attacks, and tactical damage scenarios
-- 🧱 Game infrastructure: state management, follow/shake camera systems, audio control, and platform mechanics
 
 ---
 
@@ -90,13 +80,9 @@ Role-based web platform that digitizes asset management and auditing for the Col
 **Code Craft: Mastering Essential Tools for Modern Software Development** · _December 2025_
 SWITS (CICT Student Organization), Bulacan State University
 
-- Built a document-ingestion feature for an AI-powered PDF reviewer that generates exam review content from uploaded files
-- Implemented interactive Q&A chat so users can ask questions about their uploaded documents
-- Built REST API endpoints with **Laravel**, using proper HTTP status codes for reliable error handling
-
 ---
 
-## 📊 Contribution 
+## 📅 Contribution
 
 <p align="center">
   <picture>
@@ -108,8 +94,31 @@ SWITS (CICT Student Organization), Bulacan State University
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arji-hub&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arji-hub&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arji-hub&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 📧 [rg.gatmaitan23@gmail.com](mailto:rg.gatmaitan23@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/rggatmaitan)
 
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:03254c,50:011627,100:00060f&section=footer&reversal=true&text=while+%28alive%29+%7B+live+%7D&textBg=false&fontSize=15&fontColor=7fb8ff&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=5&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="while (alive) { live }" />
+</p>
