@@ -116,8 +116,6 @@ SWITS (CICT Student Organization), Bulacan State University
 
 ## 📫 Let's Connect
 
-I'm open to internships, collaborations, and conversations about web dev and game dev.
-
 📧 [rg.gatmaitan23@gmail.com](mailto:rg.gatmaitan23@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/rggatmaitan)
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
