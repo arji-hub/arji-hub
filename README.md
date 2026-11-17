@@ -120,5 +120,5 @@ SWITS (CICT Student Organization), Bulacan State University
 📧 [rg.gatmaitan23@gmail.com](mailto:rg.gatmaitan23@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/rggatmaitan)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:03254c,50:011627,100:00060f&section=footer&reversal=true&text=while+%28alive%29+%7B+live+%7D&textBg=false&fontSize=15&fontColor=7fb8ff&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=5&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="while (alive) { live }" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:03254c,50:011627,100:00060f&section=footer&reversal=true&text=while+%28alive%29+%7B+live+%7D&textBg=false&fontSize=10&fontColor=8b949e&fontAlign=50&fontAlignY=80&animation=twinkling&rotate=5" alt="while (alive) { live }" />
 </p>
